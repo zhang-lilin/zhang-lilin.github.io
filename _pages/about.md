@@ -29,7 +29,15 @@ redirect_from:
 
 **Lilin Zhang**, Ning Yang*, Yanchao Sun, Philip S. Yu.
 
-[[arxiv](https://arxiv.org/abs/2301.09069), [html](https://ieeexplore.ieee.org/abstract/document/10530438), [code]()]<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[[arxiv](https://arxiv.org/abs/2301.09069), [html](https://ieeexplore.ieee.org/abstract/document/10530438), [code]()
+<div class="show_paper_citations"><p id="text" hidden="hidden">@article{zhang2024provable,
+  title={Provable Unrestricted Adversarial Training without Compromise with Generalizability},
+  author={Zhang, Lilin and Yang, Ning and Sun, Yanchao and Philip, S Yu},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
+}</p><input id="input" hidden="hidden"><p onclick="copyText()">bib</p>
+</div>]
 </div>
 </div>
 
@@ -44,7 +52,7 @@ Xinyu Zhu, **Lilin Zhang**, Ning Yang*.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Contrastive Collaborative Filtering for Cold-Start Item Recommendation*
