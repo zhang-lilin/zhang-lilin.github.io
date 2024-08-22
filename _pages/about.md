@@ -29,15 +29,14 @@ redirect_from:
 
 **Lilin Zhang**, Ning Yang*, Yanchao Sun, Philip S. Yu.
 
-[[arxiv](https://arxiv.org/abs/2301.09069), [html](https://ieeexplore.ieee.org/abstract/document/10530438), [code]()
-<div class="show_paper_citations"><p id="text" hidden="hidden">@article{zhang2024provable,
+[[arxiv](https://arxiv.org/abs/2301.09069), [html](https://ieeexplore.ieee.org/abstract/document/10530438), [code](), 
+<p id="text" hidden="hidden" >@article{zhang2024provable,
   title={Provable Unrestricted Adversarial Training without Compromise with Generalizability},
   author={Zhang, Lilin and Yang, Ning and Sun, Yanchao and Philip, S Yu},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2024},
   publisher={IEEE}
-}</p><input id="input" hidden="hidden"><p onclick="copyText()">bib</p>
-</div>]
+}</p><button onclick="copyText()">bib</button>]
 </div>
 </div>
 
