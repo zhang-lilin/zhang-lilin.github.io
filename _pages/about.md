@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am a Ph.D. candidate in Sichuan University. My research interest is **Trustworthy Machine Learning** including
+I am a doctoral student in Sichuan University. My research interest is **Trustworthy Machine Learning** including
 - Robustness
 - Fairness
 - Explainability
