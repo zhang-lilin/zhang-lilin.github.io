@@ -28,7 +28,7 @@ I interest in **Trustworthy Machine Learning** including
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/PUAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/paper_PUAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Provable Unrestricted Adversarial Training without Compromise with Generalizability*
@@ -39,7 +39,7 @@ I interest in **Trustworthy Machine Learning** including
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/paper_AFRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Adaptive Fair Representation Learning for Personalized Fairness in Recommendations via Information Alignment*
@@ -50,7 +50,7 @@ Xinyu Zhu, **Lilin Zhang**, Ning Yang*.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/paper_CCFCRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Contrastive Collaborative Filtering for Cold-Start Item Recommendation*
