@@ -50,7 +50,10 @@ Xinyu Zhu, **Lilin Zhang**, Ning Yang*.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/paper_CCFCRec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/paper_CCFCRec.png' alt="sym" width="100%">
+</div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 *Contrastive Collaborative Filtering for Cold-Start Item Recommendation*
