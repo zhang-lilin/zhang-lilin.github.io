@@ -17,6 +17,8 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
+# About Me
+
 I am a Ph.D. candidate in Sichuan University. My research interest is **Trustworthy Machine Learning** including
 - Robustness
 - Fairness
@@ -24,9 +26,11 @@ I am a Ph.D. candidate in Sichuan University. My research interest is **Trustwor
 - Privacy
 - ...
 
+<span class='anchor' id='-news'></span>
 # News
 - *2024.08*: paper accepted by RecSys 2024 (Jingyu Chen, **Lilin Zhang**, Ning Yang*. *Improving Adversarial Robustness for Recommendation Model via Cross-Domain Distributional Adversarial Training*). 
 
+<span class='anchor' id='-publications'></span>
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/paper_PUAT.png' alt="sym" width="100%"></div></div>
@@ -65,7 +69,7 @@ Zhihui Zhou, **Lilin Zhang**, Ning Yang*.
 </div>
 </div>
 
-
+<span class='anchor' id='-educations'></span>
 # Educations
 
 [//]: # (- *2024 - now*, Doctor of Engineering, Sichuan University. )
