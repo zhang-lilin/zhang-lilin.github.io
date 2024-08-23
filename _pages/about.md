@@ -19,12 +19,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am a doctoral student in Sichuan University. My research interest is **Trustworthy Machine Learning** including
-- Robustness
-- Fairness
-- Explainability
-- Privacy
-- ...
+I am a doctoral student in Sichuan University (*2024.06 - now*). 
+- Supervisor: [**Ning Yang**](https://yneversky.github.io)
+- Research Interest: **Trustworthy Machine Learning**
+  - robustness
+  - fairness
+  - privacy
+  - explainability
+  - ...
 
 <span class='anchor' id='-news'></span>
 # News
@@ -36,7 +38,7 @@ I am a doctoral student in Sichuan University. My research interest is **Trustwo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/paper_PUAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Provable Unrestricted Adversarial Training without Compromise with Generalizability*
+*Provable Unrestricted Adversarial Training without Compromise with Generalizability* (early access)
 
 **Lilin Zhang**, Ning Yang*, Yanchao Sun, Philip S. Yu.
 
@@ -73,5 +75,5 @@ Zhihui Zhou, **Lilin Zhang**, Ning Yang*.
 # Educations
 
 [//]: # (- *2024 - now*, Doctor of Engineering, Sichuan University. )
-- *2021 - 2024*, Master of Engineering, Sichuan University. 
-- *2017 - 2021*, Bachelor of Management, Zhongnan University of Economics and Law.
+- *2021.09 - 2024.06*, Master of Engineering, Sichuan University. 
+- *2017.09 - 2021.06*, Bachelor of Management, Zhongnan University of Economics and Law.
