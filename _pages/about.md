@@ -15,8 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
-I interest in **Trustworthy Machine Learning** including
+I am a Ph.D. candidate in Sichuan University. My research interest is **Trustworthy Machine Learning** including
 - Robustness
 - Fairness
 - Explainability
@@ -68,5 +69,5 @@ Zhihui Zhou, **Lilin Zhang**, Ning Yang*.
 # Educations
 
 [//]: # (- *2024 - now*, Doctor of Engineering, Sichuan University. )
-- *2021 - 2024*, Master of Engineering from Sichuan University. 
-- *2017 - 2021*, Bachelor of Management from Zhongnan University of Economics and Law.
+- *2021 - 2024*, Master of Engineering, Sichuan University. 
+- *2017 - 2021*, Bachelor of Management, Zhongnan University of Economics and Law.
