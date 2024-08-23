@@ -16,13 +16,19 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I interest in **Trustworthy Machine Learning** including
+- Robustness
+- Fairness
+- Explainability
+- Privacy
+- ...
 
 # News
-- *2024.08*: paper accepted by RecSys 2024 (Jingyu Chen, ***Lilin Zhang***, Ning Yang*. *Improving Adversarial Robustness for Recommendation Model via Cross-Domain Distributional Adversarial Training*). 
+- *2024.08*: paper accepted by RecSys 2024 (Jingyu Chen, **Lilin Zhang**, Ning Yang*. *Improving Adversarial Robustness for Recommendation Model via Cross-Domain Distributional Adversarial Training*). 
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/PUAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Provable Unrestricted Adversarial Training without Compromise with Generalizability*
