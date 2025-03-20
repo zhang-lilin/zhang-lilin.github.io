@@ -30,19 +30,42 @@ I am a doctoral student in Sichuan University (*2024.06 - now*).
 
 <span class='anchor' id='-news'></span>
 # News
-- *2024.08*: paper accepted by RecSys 2024 (Jingyu Chen, **Lilin Zhang**, Ning Yang*. *Improving Adversarial Robustness for Recommendation Model via Cross-Domain Distributional Adversarial Training*). 
+
+[//]: # (- *2025.03*: paper accepted by CVPR 2025 &#40;**Lilin Zhang**, Chengpei Wu, Ning Yang*. *Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data*&#41;. )
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/paper_WSCAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data*
+
+**Lilin Zhang**, Chengpei Wu, Ning Yang*.
+
+[[arxiv](https://arxiv.org/abs/2503.11032), [code](https://github.com/zhang-lilin/WSCAT)]
+</div>
+</div>
 
 <span class='anchor' id='-publications'></span>
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RecSys 2024</div><img src='images/paper_CDAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Improving Adversarial Robustness for Recommendation Model via Cross-Domain Distributional Adversarial Training*
+
+Jingyu Chen, **Lilin Zhang**, Ning Yang*.
+
+[[html](https://dl.acm.org/doi/abs/10.1145/3640457.3688116), [code](https://github.com/HymanLoveGIN/CDAT)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/paper_PUAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Provable Unrestricted Adversarial Training without Compromise with Generalizability* (early access)
+*Provable Unrestricted Adversarial Training without Compromise with Generalizability*
 
 **Lilin Zhang**, Ning Yang*, Yanchao Sun, Philip S. Yu.
 
-[[arxiv](https://arxiv.org/abs/2301.09069), [html](https://ieeexplore.ieee.org/abstract/document/10530438), [code](https://github.com/zhang-lilin/PUAT.git)]
+[[arxiv](https://arxiv.org/abs/2301.09069), [html](https://ieeexplore.ieee.org/abstract/document/10530438), [code](https://github.com/zhang-lilin/PUAT)]
 </div>
 </div>
 
