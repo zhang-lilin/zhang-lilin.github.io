@@ -38,7 +38,7 @@ I am a doctoral student in Sichuan University (*2024.06 - now*).
 
 *Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data*
 
-**Lilin Zhang**, Chengpei Wu, Ning Yang*.
+***Lilin Zhang***, Chengpei Wu, Ning Yang*.
 
 [[arxiv](https://arxiv.org/abs/2503.11032), [code](https://github.com/zhang-lilin/WSCAT)]
 </div>
@@ -52,7 +52,7 @@ I am a doctoral student in Sichuan University (*2024.06 - now*).
 
 *Improving Adversarial Robustness for Recommendation Model via Cross-Domain Distributional Adversarial Training*
 
-Jingyu Chen, **Lilin Zhang**, Ning Yang*.
+*Jingyu Chen*, **Lilin Zhang**, Ning Yang*.
 
 [[html](https://dl.acm.org/doi/abs/10.1145/3640457.3688116), [code](https://github.com/HymanLoveGIN/CDAT)]
 </div>
@@ -63,7 +63,7 @@ Jingyu Chen, **Lilin Zhang**, Ning Yang*.
 
 *Provable Unrestricted Adversarial Training without Compromise with Generalizability*
 
-**Lilin Zhang**, Ning Yang*, Yanchao Sun, Philip S. Yu.
+***Lilin Zhang***, Ning Yang*, Yanchao Sun, Philip S. Yu.
 
 [[arxiv](https://arxiv.org/abs/2301.09069), [html](https://ieeexplore.ieee.org/abstract/document/10530438), [code](https://github.com/zhang-lilin/PUAT)]
 </div>
@@ -74,7 +74,7 @@ Jingyu Chen, **Lilin Zhang**, Ning Yang*.
 
 *Adaptive Fair Representation Learning for Personalized Fairness in Recommendations via Information Alignment*
 
-Xinyu Zhu, **Lilin Zhang**, Ning Yang*.
+*Xinyu Zhu*, ***Lilin Zhang***, Ning Yang*.
 
 [[arxiv](https://arxiv.org/abs/2404.07494), [html](https://dl.acm.org/doi/abs/10.1145/3626772.3657709), [code](https://github.com/zhuxinyu2700/AFRL)]<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -88,7 +88,7 @@ Xinyu Zhu, **Lilin Zhang**, Ning Yang*.
 
 *Contrastive Collaborative Filtering for Cold-Start Item Recommendation*
 
-Zhihui Zhou, **Lilin Zhang**, Ning Yang*.
+*Zhihui Zhou*, ***Lilin Zhang***, Ning Yang*.
 
 [[arxiv](https://arxiv.org/abs/2302.02151), [html](https://dl.acm.org/doi/abs/10.1145/3543507.3583286), [code](https://github.com/zzhin/CCFCRec)]<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
