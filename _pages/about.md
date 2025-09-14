@@ -19,19 +19,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am a doctoral student in Sichuan University (*2024.06 - now*). 
-- Supervisor: [**Ning Yang**](https://yneversky.github.io)
-- Research Interest: **Trustworthy Machine Learning**
+I am a doctoral student at the School of Computer Science, Sichuan University (*2024.06 - now*).
+- **Research interest:** Trustworthy Machine Learning
   - robustness
   - fairness
-  - privacy
-  - explainability
   - ...
 
 <span class='anchor' id='-news'></span>
 # News
 
-[//]: # (- *2025.03*: paper accepted by CVPR 2025 &#40;**Lilin Zhang**, Chengpei Wu, Ning Yang*. *Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data*&#41;. )
+- *2025.03*: paper accepted by CVPR 2025. 
+
+<span class='anchor' id='-publications'></span>
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/paper_WSCAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,12 +40,9 @@ I am a doctoral student in Sichuan University (*2024.06 - now*).
 
 ***Lilin Zhang***, Chengpei Wu, Ning Yang*.
 
-[[arxiv](https://arxiv.org/abs/2503.11032), [code](https://github.com/zhang-lilin/WSCAT)]
+[[arxiv](https://arxiv.org/abs/2503.11032), [html](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Weakly_Supervised_Contrastive_Adversarial_Training_for_Learning_Robust_Features_from_CVPR_2025_paper.html), [code](https://github.com/zhang-lilin/WSCAT)]
 </div>
 </div>
-
-<span class='anchor' id='-publications'></span>
-# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RecSys 2024</div><img src='images/paper_CDAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
